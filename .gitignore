@@ -27,13 +27,12 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
 # Ignore IntelliJ IDEA settings
 .idea/
 
-Ignore IntelliJ IDEA settings
 # Ignore META-INF folder
 META-INF/
 
-Ignore IntelliJ IDEA settings
 # Ignore IntelliJ project files
 *.iml
