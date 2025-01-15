@@ -32,7 +32,7 @@ bin/
 .idea/
 
 # Ignore META-INF folder
-META-INF/
+src/META-INF/
 
 # Ignore IntelliJ project files
 *.iml
